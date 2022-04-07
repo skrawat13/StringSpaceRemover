@@ -1,0 +1,6 @@
+C:\Users\jyoti\source\repos\StringManupulation\StringManupulation\bin\Debug\StringManupulation.dll
+C:\Users\jyoti\source\repos\StringManupulation\StringManupulation\bin\Debug\StringManupulation.pdb
+C:\Users\jyoti\source\repos\StringManupulation\StringManupulation\obj\Debug\StringManupulation.csproj.CoreCompileInputs.cache
+C:\Users\jyoti\source\repos\StringManupulation\StringManupulation\obj\Debug\StringManupulation.dll
+C:\Users\jyoti\source\repos\StringManupulation\StringManupulation\obj\Debug\StringManupulation.pdb
+C:\Users\jyoti\source\repos\StringManupulation\StringManupulation\obj\Debug\StringManupulation.csprojAssemblyReference.cache
